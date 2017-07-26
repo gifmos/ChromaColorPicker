@@ -411,3 +411,4 @@ extension ChromaColorPicker: ChromaShadeSliderDelegate{
         self.updateHexLabel()
     }
 }
+
